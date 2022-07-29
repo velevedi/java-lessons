@@ -3,9 +3,10 @@
  */
 public class Variable {
 
+    static String v = "nika";
+
     public static void main(String[] args) {
-        String v = "";
-        System.out.println("hello world " + v);
+        System.out.println(v);
     }
 
 }
